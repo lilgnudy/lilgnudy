@@ -1,0 +1,7 @@
+public class hellogit { 
+	public static void main (String [] args) {
+	system.out.println("Welcome to 1");
+	system.out.println("Welcome to 2");
+	system.out.println("Welcome to 3");
+	system.out.println("Welcome to 4");
+}}
